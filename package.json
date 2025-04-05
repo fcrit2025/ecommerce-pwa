@@ -1,0 +1,12 @@
+{
+    "name": "ecommerce-pwa",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://fcrit2025.github.io/ecommerce-pwa",
+    "scripts": {
+      "deploy": "gh-pages -d ."
+    },
+    "devDependencies": {
+      "gh-pages": "^5.0.0"
+    }
+  }
